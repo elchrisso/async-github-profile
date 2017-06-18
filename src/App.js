@@ -13,7 +13,7 @@ class App extends Component {
       <BrowserRouter>
         <div>
           <Navbar color="faded" light toggleable className="fixed-top">
-            <NavbarBrand>Aric Beagley</NavbarBrand>
+            <NavbarBrand>Chris Brown</NavbarBrand>
             <NavbarToggler/>
             <Nav className="justify-content-end d-flex w-100">
               <NavItem>
